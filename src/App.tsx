@@ -1,11 +1,11 @@
 import './App.css'
-import svg from './assets/web.svg'
+// import svg from './assets/web.svg'
 
 function App() {
 
   return (
     <>
-      <img src={svg} />
+      <div className='development'>development</div>
     </>
   )
 }
